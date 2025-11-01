@@ -1,0 +1,4 @@
+*.exe
+# Ignore build artifacts and object files
+*.out
+*.o
